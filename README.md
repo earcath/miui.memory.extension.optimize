@@ -11,7 +11,7 @@ MIUI内存扩展回写模块，控制writeback进行内存扩展回写
 [![Version](https://img.shields.io/github/tag/Lslingshang/Memory.expansion.writeback?style=for-the-badge&label=当前版本)](https://github.com/Lslingshang/Memory.expansion.writeback/releases/latest)
 
 
-[![Stars](https://img.shields.io/github/stars/Lslingshang/Memory.expansion.writeback?style=for-the-badge&label=Github%20Stars&logo=github "GitHub Repo stars")](https://github.com/Lslingshang/Memory.expansion.writeback)
+[![Stars](https://img.shields.io/github/stars/Lslingshang/Memory.expansion.writeback?style=for-the-badge&label=Github%20收藏&logo=github "GitHub Repo stars")](https://github.com/Lslingshang/Memory.expansion.writeback)
 
 [![Downloads](https://img.shields.io/github/downloads/Lslingshang/Memory.expansion.writeback/total?style=for-the-badge&label=Github下载&logo=github)](https://github.com/Lslingshang/Memory.expansion.writeback/releases)
 
