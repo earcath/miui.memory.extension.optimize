@@ -25,7 +25,7 @@ MIUI内存扩展回写模块，控制writeback进行内存扩展回写
 
 `Magisk Alpha 26101`
 
-## 配置
+## 路径
 配置：
   ```
   /sdcard/Android/Ls/writeback/writeback.conf
