@@ -28,7 +28,7 @@ MIUI内存扩展回写模块，控制writeback进行内存扩展回写
 ## 配置
 配置：
   ```
-  /sdcard/Android/Ls/writeback
+  /sdcard/Android/Ls/writeback/writeback.conf
   ```
 日志： 
   ```
