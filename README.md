@@ -4,7 +4,7 @@
 </div>
 
 # MIUI内存扩展回写
-MIUI内存扩展回写模块，控制writeback进行内存扩展回写
+MIUI内存扩展回写优化模块
 
 [![Magisk](https://img.shields.io/badge/Magisk-blue?style=for-the-badge)](https://github.com/topjohnwu/Magisk)
 

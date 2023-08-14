@@ -3,8 +3,8 @@
 <a href="/README_en-US.md">EN</a>
 </div>
 
-# Memory expansion writeback
-The MIUI memory expansion write-back module controls writeback to perform memory expansion writeback
+# MIUI memory extension optimize
+The MIUI memory extension write-back optimize module
 
 [![Magisk](https://img.shields.io/badge/Magisk-blue?style=for-the-badge)](https://github.com/topjohnwu/Magisk)
 
