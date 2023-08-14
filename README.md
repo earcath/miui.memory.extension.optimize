@@ -23,7 +23,7 @@ MIUI内存扩展回写优化模块
 
 `Android 12`
 
-`Magisk Alpha 26101`
+`Magisk Delta 26105`
 
 ## 路径
 配置：

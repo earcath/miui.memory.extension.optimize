@@ -23,7 +23,7 @@ The MIUI memory extension write-back optimize module
 
 `Android 12`
 
-`Magisk Alpha 26101`
+`Magisk Delta 26105`
 
 ## PATH
 config：
